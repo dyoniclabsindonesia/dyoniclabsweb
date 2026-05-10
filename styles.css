@@ -288,6 +288,12 @@ ul {
     font-size: 1.25rem;
 }
 
+.logo-img {
+    height: 36px;
+    width: auto;
+    object-fit: contain;
+}
+
 .logo-icon {
     display: inline-flex;
     align-items: center;
